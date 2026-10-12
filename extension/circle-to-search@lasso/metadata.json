@@ -1,0 +1,10 @@
+{
+  "uuid": "circle-to-search@lasso",
+  "name": "Select to Search",
+  "description": "Drag a rectangle on the desktop, then release. The screenshot is sent to Gemini once. Gemini stays unloaded until you search.",
+  "shell-version": ["51"],
+  "settings-schema": "org.gnome.shell.extensions.circle-to-search",
+  "session-modes": ["user"],
+  "version": 67,
+  "version-name": "2.0.0"
+}

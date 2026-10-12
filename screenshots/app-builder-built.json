@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Circle to Search",
+      "hasCanvas": false,
+      "bodyTextLen": 673,
+      "bodyTextHash": "c46b44069193b7276a294538c8e2aa8edc0b60e369eca588810caf131e399563",
+      "bodyTextPrefix": "GNOME 51 Circle to Search Circle to Search Install the extension",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Circle to Search",
+      "hasCanvas": false,
+      "bodyTextLen": 673,
+      "bodyTextHash": "c46b44069193b7276a294538c8e2aa8edc0b60e369eca588810caf131e399563",
+      "bodyTextPrefix": "GNOME 51 Circle to Search Circle to Search Install the extension",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
